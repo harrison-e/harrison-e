@@ -14,7 +14,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 ...and more coming soon!
 
 <details>
-
+<summary>Some insipration</summary>
   ---
     
   > To be or not to be.
