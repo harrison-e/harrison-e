@@ -2,6 +2,8 @@
 
 I'm currently studying Computer Science at Northeastern University. I've been programming for 5+ years, and getting better every day(ish).
 
+---
+
 ### Current WIP Projects:
 | Project Name | Language |
 |---:|---|
@@ -11,6 +13,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 
 ...and more coming soon!
 
+<details>
 ---
 > To be or not to be.
 
@@ -27,7 +30,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 > Do be do be do.
 
 — Sinatra
-
+</details>
 <!--
 **harrison-e/harrison-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
