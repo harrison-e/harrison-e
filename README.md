@@ -1,4 +1,32 @@
-### Hi there 👋
+### Hi 👋 I'm Harrison
+
+I'm currently studying Computer Science at Northeastern University. I've been programming for 5+ years, and getting better every day(ish).
+
+### Current WIP Projects:
+| Project Name | Language |
+|---:|---|
+| Content Delivery Network (CDN) | Python |
+| Flight Simulator | C++ / OpenGL |
+| Predicting Penalty Kicks | Python / MediaPipe |
+
+...and more coming soon!
+
+---
+> To be or not to be.
+
+— Shakespeare
+
+> To do is to be.
+
+— Nietzsche
+
+> To be is to do.
+
+— Sartre
+
+> Do be do be do.
+
+— Sinatra
 
 <!--
 **harrison-e/harrison-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
