@@ -14,7 +14,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 ...and more coming soon!
 
 <details>
-<summary>Additional Project Details</summary>
+<summary><i>Additional Project Details</i></summary>
 
   #### Content Delivery Network (CDN)
   - Implements a DNS server to resolve a hostname to a replica server that is most local to a request
@@ -33,7 +33,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 ---
   
 <details>
-<summary>Some insipration</summary>
+<summary><i>Some insipration</i></summary>
 
   > To be or not to be.
   
