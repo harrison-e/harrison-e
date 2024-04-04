@@ -11,23 +11,6 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 | Flight Simulator | C++ / OpenGL |
 | Predicting Penalty Kicks | Python / MediaPipe |
 
-<details>
-<summary><i>Additional Project Details</i></summary>
-
-  #### Content Delivery Network (CDN)
-  - Implements a DNS server to resolve a hostname to a replica server that is most local to a request
-  - Manages an HTTP cache per replica server to minimize time-to-completion for content requests
-  
-  #### Flight Simulator
-  - Simulates the physical properties of an airplane and models it using OpenGL
-  - Airplane flies over a procedurally generated landscape
-  
-  #### Predicting Penalty Kicks
-  - Uses MediaPipe and MMAction2 libraries to implement a pose estimation model
-  - Predicts the outcome of a penalty kick in soccer using this model
-
-</details>
-
 ---
   
 <details>
