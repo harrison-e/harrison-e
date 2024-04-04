@@ -2,7 +2,7 @@
 
 I'm currently studying Computer Science at Northeastern University. I've been programming for 5+ years, and getting better every day(ish).
 
----
+<!--->
 
 ### Current WIP Projects:
 | Project Name | Language |
@@ -11,7 +11,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 | Flight Simulator | C++ / OpenGL |
 | Predicting Penalty Kicks | Python / MediaPipe |
 
----
+<!--->
   
 <details>
 <summary><i>Some insipration</i></summary>
