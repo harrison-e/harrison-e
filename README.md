@@ -11,8 +11,6 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 | Flight Simulator | C++ / OpenGL |
 | Predicting Penalty Kicks | Python / MediaPipe |
 
-...and more coming soon!
-
 <details>
 <summary><i>Additional Project Details</i></summary>
 
