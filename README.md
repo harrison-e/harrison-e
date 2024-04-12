@@ -15,7 +15,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
   
 <details>
 <summary><i>Some insipration</i></summary>
-  <br/>
+  <br />
   > To be or not to be.
   
   — Shakespeare
