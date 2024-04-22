@@ -7,9 +7,7 @@ I'm currently studying Computer Science at Northeastern University. I've been pr
 ### Current WIP Projects:
 | Project Name | Language |
 |---:|---|
-| Content Delivery Network (CDN) | Python |
-| Flight Simulator | C++ / OpenGL |
-| Predicting Penalty Kicks | Python / MediaPipe |
+| Jukebox | Rust/Postgres |
 
 <!--->
   
