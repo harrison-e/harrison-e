@@ -1,4 +1,4 @@
-### Hi 👋 I'm Harrison
+### Hi!! 👋 I'm Harrison
 
 I'm currently studying Computer Science at Northeastern University. Check out my repositories to see some cool stuff.
 
