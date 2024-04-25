@@ -4,11 +4,14 @@ I'm currently studying Computer Science at Northeastern University. Check out my
 
 <!--->
 
+Currently working on some top-secret projects... 
+
+<!--
 ### Current WIP Projects:
 | Project Name | Language |
 |---:|---|
 | Jukebox | Rust/Postgres |
-
+-->
 <!--->
   
 <details>
